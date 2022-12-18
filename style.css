@@ -1,0 +1,22 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+
+.ayat-suci{
+    font-family:  serif;
+}
+
+.menu-ayat{
+    cursor: pointer;
+}
+.cover-sura{
+    transition: all .7s;
+}
+.cover-surat:hover{
+    color: white;
+    background-color: #068b58;
+    
+    cursor: pointer;
+    border-radius: 15px;
+    transition: all .7s;
+
+}
+
